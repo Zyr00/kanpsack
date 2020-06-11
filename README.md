@@ -22,6 +22,10 @@ With this project i learned what is a **DP** and how use this method, the method
 project has a time complexity of **O(n\*W)** where *n* is the array size and *W* is the knapsack
 space, this also means that the space complexity is the same as it needs to use a 2D array.
 
+### Compiling and running project
+
+`gcc -g -Wall -Wextra main.c -o main && ./main`
+
 ## References
 
 [Lecture 13: The knapsack Problem](http://www.es.ele.tue.nl/education/5MC10/Solutions/knapsack.pdf)<br>
