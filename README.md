@@ -24,6 +24,6 @@ space, this also means that the space complexity is the same as it needs to use 
 
 ## References
 
-[Lecture 13: The knapsack Problem](http://www.es.ele.tue.nl/education/5MC10/Solutions/knapsack.pdf)
-[Lecture 8: Dynamic Programing](http://www.cse.unl.edu/~goddard/Courses/CSCE310J/Lectures/Lecture8-DynamicProgramming.pdf)
-[0-1 Knapsack problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
+[Lecture 13: The knapsack Problem](http://www.es.ele.tue.nl/education/5MC10/Solutions/knapsack.pdf)<br>
+[Lecture 8: Dynamic Programing](http://www.cse.unl.edu/~goddard/Courses/CSCE310J/Lectures/Lecture8-DynamicProgramming.pdf)<br>
+[0-1 Knapsack problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)<br>
